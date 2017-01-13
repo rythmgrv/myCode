@@ -1,0 +1,18 @@
+{
+  "name": "nodejsfiddle",
+  "version": "1.0.0",
+  "description": "learning Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "GauravD@Verma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.17.4",
+    "mssql": "^3.3.0",
+    "wait.for": "^0.6.6"
+  }
+}
